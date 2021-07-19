@@ -145,8 +145,6 @@ Refer to the [`em-pairing-geospatial`](https://github.com/Airspace-Encounter-Mod
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5115120.svg)](https://doi.org/10.5281/zenodo.5115120)
 
-**Fill in once released**
-
 ### Technical Concept
 
 <details> <summary> A. Weinert, M. Edwards, L. Alvarez, and S. Katz, “Representative Small UAS Trajectories for Encounter Modeling,” in AIAA Scitech 2020 Forum, 2020, pp. 1–10.</summary>
